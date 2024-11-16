@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/_trngjhngwr.0u0_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@cuong_navy" target="_blank">
+  <a href="https://www.youtube.com/@tronghuong9638" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="YouTube" />
   </a>
 </div>
