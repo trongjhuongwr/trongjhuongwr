@@ -18,20 +18,21 @@
 <h3 align="left">🤙 Connect with me:</h3>
 
 <div align="left"> 
-    <a href="https://www.linkedin.com/in/h%C6%B0%E1%BB%9Fng-nguy%E1%BB%85n-tr%E1%BB%8Dng-3aa684249/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <a href="https://www.linkedin.com/in/h%C6%B0%E1%BB%9Fng-nguy%E1%BB%85n-tr%E1%BB%8Dng-3aa684249" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:nguyentronghuong05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:nguyentronghuong05@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
   </a>
-
   <a href="https://www.facebook.com/tronghuong.nguyen.05" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="Facebook" />
   </a>
-  <!--
-  <a href="https://toannguyenkhanh.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> -->
+  <a href="https://www.instagram.com/_trngjhngwr.0u0_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@cuong_navy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="YouTube" />
+  </a>
 </div>
 
 ## 💻 Tech Stack:
