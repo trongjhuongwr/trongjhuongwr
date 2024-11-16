@@ -18,7 +18,7 @@
 <h3 align="left">🤙 Connect with me:</h3>
 
 <div align="left"> 
-    <a href="https://www.linkedin.com/in/thi%E1%BB%87n-nguy%E1%BB%85n-1b3793285/" target="_blank">
+    <a href="https://www.linkedin.com/in/h%C6%B0%E1%BB%9Fng-nguy%E1%BB%85n-tr%E1%BB%8Dng-3aa684249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:nguyentronghuong05@gmail.com">
