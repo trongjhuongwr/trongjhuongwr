@@ -1,123 +1,242 @@
-<p align="center">
-  <img align="middle" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="500">
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/6086ca6e-837f-400a-84e8-bb145dffdfc2" />
 
+# Hey there, I'm TRONG HUONG (ARTHUR)
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+## I'm a Computer Science Engineering Student  
+
+- 👨‍💻 I’m currently a third-year Computer Science student.
+- 📚 I’m currently learning all about Python and Deep Learning models.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💬 Ask me about Software Development.
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/1CmUZGtH29Kx36C1Hleqlz)
+
+---
+<h3>Visit My portfolio https://developer-portfolio-nu-ashen.vercel.app/ </h3>
+
+  <a href="https://developer-portfolio-nu-ashen.vercel.app/" target="_blank">
+</a>
+
+
+---
+
+
+
+## Tech Stack:
+
+<p>
+  <div>
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,haskell,docker,dotnet,git,pytorch,tensorflow,sklearn" />
+  </div>
 </p>
 
 
-<h1 align="middle">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+,+Nice+to+meet+you+!+👋;+My+name+is+Arthur!;" />
-</h1>
-<h3 align="middle">A Computer Science Student From UEH.</h3>
+<!--
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-# ❔ About Me:
-<div align="left">
- 🔭 I’m currently learning Computer Science as a 2nd year student at UEH (University of Economic Ho Chi Minh City).<br>
- 
- </div>
- 
-<h3 align="left">🤙 Connect with me:</h3>
+-->
 
-<div align="left"> 
-    <a href="https://www.linkedin.com/in/h%C6%B0%E1%BB%9Fng-nguy%E1%BB%85n-tr%E1%BB%8Dng-3aa684249" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nguyentronghuong05@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/tronghuong.nguyen.05" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/_trngjhngwr.0u0_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@tronghuong9638" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="YouTube" />
-  </a>
+---
+<h2 align="left">Tools & Technologies:</h3>
+
+<h2 align="left"> Frontend</h2>
+<!--	<td><img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></td>	-->
+<div >
+	<table>
+		<tr>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></td>
+			<!-- <td><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></td> -->
+   		</tr>
+     		<tr>
+			<!-- <td><img width="50" src="https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d" alt="ShadCn UI" title="ShadCn UI"/></td> -->
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></td>
+			<!-- <td><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></td> -->
+			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></td>
+		</tr>
+	</table>
 </div>
 
-## 💻 Tech Stack:
-<!--![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/Pytorch-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) -->
-<!-- [![My Skills](https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,keras,opencv,cs,mysql,pycharm,docker,linux)](https://skillicons.dev) -->
+<h2 align="left">Backend</h2>
+
+<div >
+	<table>
+		<tr>
+			<!-- <td><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></td> -->
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></td>
+		</tr>
+	</table>
+</div>
+
+<h2 align="left">Devops</h2>
+
+<div >
+	<table>
+		<tr>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></td>
+			<!-- <td><img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></td>
+			<td><img width="50" src="https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b" alt="Digital Ocean" title="Digital Ocean"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></td> -->
+		</tr>
+	</table>
+</div>
 
 
-  <h3>Languages</br></h3>
-  <div align="left">
+<h2 align="left">Machine Learning</h2>
 
-   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=orange&labelColor=282828">
-   <img src="https://img.shields.io/badge/-C++-1ca0f1?style=for-the-badge&logo=cplusplus&logoColor=1ca0f1&labelColor=282828">
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=282828"> 
-   <!--<img src="https://img.shields.io/badge/R-EADBC8.svg?style=for-the-badge&logo=R&logoColor=blue&labelColor=282829">-->
+<div >
+	<table>
+		<tr>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></td>
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></td>
+			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/></td>
+			<td><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/></td>
+		</tr>
+		<tr>
+			<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit learn" title="Scikit learn"/></td>
+			<td><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" title="Google Colab"/></td>
+			<td><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKt9fsfQ8qST4DCnH9EpXIc2f1pEcaZutung&s" alt="Matplotlib" title="Matplotlib"/></td>
+			<td><img width="50" src="https://avatars.githubusercontent.com/u/22799945?s=280&v=4" alt="Seaborn" title="Seaborn"/></td>
+		</tr>
+	</table>
+</div>
 
-    
-  </div>
 
-  <h3>Libraries & Frameworks</br></h3>
-  <div align="left">
-    <!--<img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&labelColor=282828">-->
-    <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=282828">
-    <!--<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=5c3ee8&labelColor=282828">-->
-    <!--<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&labelColor=282828">-->
-    <!--<img alt="Onnx" src="https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=282828">-->
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&&logo=circle&logoColor=11557c&labelColor=282828">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=282828">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-4d77cf?style=for-the-badge&logo=numpy&logoColor=4d77cf&labelColor=282828">
+<h2 align="left">App Development</h2>
 
-   </div>
+<div >
+	<table>
+		<tr>
+			<!-- <td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></td> -->
+			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></td>
+			<!-- <td><img width="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></td> -->
+		</tr>
+	</table>
+</div>
 
-  <h3>Software & Tools</br></h3>
-   <div align="left">
-    <!--<img alt="Docker" src="https://img.shields.io/badge/Docker-4d77cf?style=for-the-badge&logo=docker&logoColor=4d77cf&labelColor=282828">-->
-    <!--<img alt="Linux" src="https://img.shields.io/badge/Linux-f5c022?style=for-the-badge&logo=linux&logoColor=f5c022&labelColor=282828">-->
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=282828">
-    <img alt="Git" src="https://img.shields.io/badge/Git-f05134?style=for-the-badge&logo=git&logoColor=f05134&labelColor=282828">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-f27727?style=for-the-badge&logo=Jupyter&logoColor=f27727&labelColor=282828">
-    <img alt="Colab" src="https://img.shields.io/badge/Colab-fb9c04?style=for-the-badge&&logo=google-colab&logoColor=fb9c04&labelColor=282828">
-    <img alt="VMWare" src="https://img.shields.io/badge/VMWare-208abc?style=for-the-badge&logo=vmware&logoColor=208abc&labelColor=282828">
-   </div>
 
-# 📊 GitHub:
+---
 
-<h1 align="left">
+<h2 align="left">Connect with me:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trongjhuongwr&layout=compact&theme=react)<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=trongjhuongwr&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
+<div align="left"> 
+	<table>
+		<tr>
+<td>	<a href="https://www.linkedin.com/in/nguyentronghuong05/" target="blank">   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70">  </a></td>
+<td>	<a href="https://www.instagram.com/_trngjhngwr.0u0_/" target="blank">  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70">  </a>  </td>
+		</tr>
+	</table>
+</div>
+
+<h2 align="left">Support:</h2>
+<p><a href="https://drive.google.com/file/d/1ZqTAfuEwUs0aUK4u3KQ3ccdKh8l2ltYB/view?usp=sharing"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mihir_goswami" /></a></p><br><br>
+
 <!--
-# 🤺 Competitive programming:
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=NguyenThien&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/NguyenThien)
-<!--![LeetCode Stats](https://leetcard.jacoblin.cool/nnt2923?theme=dark&font=Oxanium)-->
+<p align="left">
+<a href="https://www.linkedin.com/in/mihir-goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir-goswami-ba8828247" height="30" width="40" /></a>
+<a href="https://instagram.com/mihir_goswami_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihir_goswami_007" height="30" width="40" /></a>
+</p>
 
-</h1>
+-->
 
-<!-- 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-</div> 
+---
+
+
+### Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"> <span><i>Github Analytics</i></span></h2>
+
+
+
+---
+
+<div align="left">
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trongjhuongwr&theme=tokyonight">
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trongjhuongwr&theme=tokyonight&utcOffset=8">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trongjhuongwr&theme=tokyonight">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trongjhuongwr&theme=tokyonight">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trongjhuongwr&theme=tokyonight">
+</div>
+<div align="left">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=trongjhuongwr&theme=tokyonight&hide_border=true">
+<img height="166em" src="https://awesome-github-stats.azurewebsites.net/user-stats/trongjhuongwr?cardType=level&theme=tokyonight&preferLogin=false&Border=1B1B27">
+</div><br>
+
+<!--
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=trongjhuongwr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/trongjhuongwr?cardType=level&theme=tokyonight&preferLogin=false&Border=1B1B27)](https://git.io/awesome-stats-card)
+
+-->
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=trongjhuongwr&theme=tokyonight&margin-w=20)](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=tokyonight&margin-w=15)
+
+
+<!--
+
+ | Current Streak | Github Stats  |
+ | --- | --- |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=MIHIR2006&theme=blue_navy)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=trongjhuongwr&show_icons=true&locale=en&theme=blue_navy&rank_icon=github" /> 
+
+-->
+
+
+
+
+
+
+
+<!--
+| |  |
+ | --- | --- |
+| ![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&rank_icon=progress&theme=blue_navy)  |    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongjhuongwr&layout=donut&theme=blue_navy&hide=hack,jupyter%20notebook">
+--!>  
+
+
+ 
+ <!-- ![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongjhuongwr&show_icons=true&rank_icon=progress&theme=blue_navy) -->
+
+ <!--
+ | |  |
+ | --- | --- |
+ | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongjhuongwr&layout=donut&theme=blue_navy&hide=hack,jupyter%20notebook" width="480 " height="260 " /> | <img src="https://github.com/trongjhuongwr/trongjhuongwr/blob/main/New%20Stats.png" width="445" height="260 ">
+
+-->
+
+
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=trongjhuongwr&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE) 
+---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ToanNguyenKhanh/snk/blob/output-svg-only/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ToanNguyenKhanh/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture> -->
-<!--
-# 🤖🚀 My Projects 📈🛠️:
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trongjhuongwr/trongjhuongwr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trongjhuongwr/trongjhuongwr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trongjhuongwr/trongjhuongwr/output/pacman-contribution-graph.svg">
+</picture>
 
 
-<a href="https://github.com/ThienNguyen3001/Student-Dropout-Analysis"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThienNguyen3001&repo=Student-Dropout-Analysis&theme=radical" />
-</a> 
-<a href="https://github.com/ThienNguyen3001/Clan-Analysis"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThienNguyen3001&repo=Clan-Analysis&theme=radical" />
-</a>  
-<a href="https://github.com/ThienNguyen3001/Mini-project-crawl-data"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThienNguyen3001&repo=Mini-project-crawl-data&theme=radical" />
-</a>   
-<a href="https://github.com/ThienNguyen3001/Mini-project-ML"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThienNguyen3001&repo=Mini-project-ML&theme=radical" />
-</a>   
-<a href="https://github.com/ThienNguyen3001/Do-an-Co-so-lap-trinh"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThienNguyen3001&repo=Do-an-Co-so-lap-trinh&theme=radical" />
-</a>   
-<a href="https://github.com/ThienNguyen3001/Elevator-DSA-Project"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThienNguyen3001&repo=Elevator-DSA-Project&theme=radical" />
-</a> -->
-</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+---
+
+
+
+
+
+
