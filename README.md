@@ -126,7 +126,7 @@
 </div>
 
 
----
+<!-- ---
 
 <h2 align="left">Connect with me:</h2>
 
@@ -140,7 +140,7 @@
 </div>
 
 <h2 align="left">Support:</h2>
-<p><a href="https://drive.google.com/file/d/1ZqTAfuEwUs0aUK4u3KQ3ccdKh8l2ltYB/view?usp=sharing"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mihir_goswami" /></a></p><br><br>
+<p><a href="https://drive.google.com/file/d/1ZqTAfuEwUs0aUK4u3KQ3ccdKh8l2ltYB/view?usp=sharing"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mihir_goswami" /></a></p><br><br> -->
 
 <!--
 <p align="left">
@@ -185,7 +185,7 @@
 
 -->
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=trongjhuongwr&theme=tokyonight&margin-w=20)](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=tokyonight&margin-w=15)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=trongjhuongwr&theme=tokyonight&margin-w=20)](https://github-profile-trophy.vercel.app/?username=trongjhuongwr&theme=tokyonight&margin-w=15)
 
 
 <!--
@@ -205,12 +205,12 @@
 <!--
 | |  |
  | --- | --- |
-| ![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&rank_icon=progress&theme=blue_navy)  |    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongjhuongwr&layout=donut&theme=blue_navy&hide=hack,jupyter%20notebook">
+| ![trongjhuongwr's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&rank_icon=progress&theme=blue_navy)  |    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongjhuongwr&layout=donut&theme=blue_navy&hide=hack,jupyter%20notebook">
 --!>  
 
 
  
- <!-- ![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongjhuongwr&show_icons=true&rank_icon=progress&theme=blue_navy) -->
+ <!-- ![trongjhuongwr's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongjhuongwr&show_icons=true&rank_icon=progress&theme=blue_navy) -->
 
  <!--
  | |  |
