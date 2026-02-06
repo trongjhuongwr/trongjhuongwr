@@ -72,7 +72,7 @@
 
  <!-- | Current Streak | Github Stats  |
  | --- | --- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=MIHIR2006&theme=blue_navy)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=trongjhuongwr&show_icons=true&locale=en&theme=blue_navy&rank_icon=github" />  -->
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=trongjhuongwr&theme=blue_navy)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=trongjhuongwr&show_icons=true&locale=en&theme=blue_navy&rank_icon=github" />  -->
 
 
 
