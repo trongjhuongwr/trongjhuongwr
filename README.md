@@ -66,8 +66,9 @@
 
 -->
 
+<!--
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=trongjhuongwr&theme=tokyonight&margin-w=20)](https://github-profile-trophy.vercel.app/?username=trongjhuongwr&theme=tokyonight&margin-w=15)
-
+-->
 
 
  <!-- | Current Streak | Github Stats  |
