@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/1CmUZGtH29Kx36C1Hleqlz)
 
 ---
 <h3>Visit My portfolio https://trongjhuongwr-portfolio.vercel.app/ </h3>
