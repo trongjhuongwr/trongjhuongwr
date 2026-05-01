@@ -1,11 +1,11 @@
 <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/6086ca6e-837f-400a-84e8-bb145dffdfc2" />
 
-# Hey there, I'm TRONG HUONG (ARTHUR)
+# Hey there, I'm NGUYEN TRONG HUONG (ARTHUR)
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Computer Science Engineering Student  
 
-- 👨‍💻 I’m currently a third-year Computer Science student.
+- 👨‍💻 I’m currently a final-year Computer Science student.
 - 📚 I’m currently learning all about Python and Deep Learning models.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 💬 Ask me about Software Development.
